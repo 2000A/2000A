@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **data engineering tools (Airflow, Docker, Apache Spark, Snowflake, DataBricks, Apache Airflow)**  
 💬 Ask me about **Python, SQL, ETL pipelines, Data Warehousing**  
-📫 How to reach me: **ramabhishek2000@gmail.com**  
+📫 How to reach me: **in/abhishek-ram-8442161ab**  
 
 
 ---
