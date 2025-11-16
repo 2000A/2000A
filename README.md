@@ -18,9 +18,13 @@
 
 
 Languages:        Python, SQL 
+
 Data Engineering: Apache Airflow, Pandas, Snowflake(In Process),Apache Spark(Pending), DataBricks(Pending), Airflow(Pending)
+
 Cloud:   AWS (S3,Lambda functions, Glue), Docker(Pending)
+
 Databases:        PostgreSQL, SQL Server
+
 Version Control:  Git, GitHub
 
 
