@@ -19,7 +19,7 @@
 
 Languages:        Python, SQL, Linux, 
 Data Engineering: Apache Airflow, Apache Spark, Snowflake, Pandas, DataBricks
-Cloud & DevOps:   AWS (S3, EC2), Docker, GitHub Actions
+Cloud:   AWS (S3, EC2), Docker, GitHub Actions
 Databases:        PostgreSQL, MySQL
 Version Control:  Git, GitHub
 
