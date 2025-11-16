@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋, I'm Abhishek Ram</h1>
-<h3 align="center">Data Engineering Enthusiast | Python | SQL |  Data Warehouse</h3>
+<h3 align="center">Data Engineering Enthusiast | Python | SQL(PostgreSQL/ SQL Server) |  Data Warehouse</h3>
 
 
 ---
@@ -17,10 +17,10 @@
 ### ⚙️ Tech Stack
 
 
-Languages:        Python, SQL, Linux, 
-Data Engineering: Apache Airflow, Apache Spark, Snowflake, Pandas, DataBricks
-Cloud:   AWS (S3, EC2), Docker, GitHub Actions
-Databases:        PostgreSQL, MySQL
+Languages:        Python, SQL 
+Data Engineering: Apache Airflow, Pandas, Snowflake(In Process),Apache Spark(Pending), DataBricks(Pending), Airflow(Pending)
+Cloud:   AWS (S3,Lambda functions, Glue), Docker(Pending)
+Databases:        PostgreSQL, SQL Server
 Version Control:  Git, GitHub
 
 
