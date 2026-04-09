@@ -27,6 +27,13 @@ Databases:        PostgreSQL, SQL Server
 
 Version Control:  Git, GitHub
 
+Course certificates:
+Python for data engineering [link](https://drive.google.com/file/d/1T4x1hK-xU0MXsgDhj8yIehsgh-AfSejR/view?usp=drivesdk)
+
+SQL for data engineering [link](https://drive.google.com/file/d/1kiA9o8xEEdI2mFLjtDbitD4LBz0Xx-RK/view?usp=drivesdk)
+
+Snowflake for data engineering [Link]()
+
 
 <!--
 **2000A/2000A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
