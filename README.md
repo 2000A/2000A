@@ -33,7 +33,7 @@ Version Control:  Git, GitHub
 
 #### 🎖️SQL for data engineering [Certification link](https://drive.google.com/file/d/1kiA9o8xEEdI2mFLjtDbitD4LBz0Xx-RK/view?usp=drivesdk)
 
-#### 🎖️Snowflake for data engineering [Certification Link](https://drive.google.com/file/d/1J51sun3pXopmUkydeSYtLFQa6e-NeUsM/view?usp=drivesdk)
+#### 🎖️ Datawarehouse & Snowflake for data engineering [Certification Link](https://drive.google.com/file/d/1J51sun3pXopmUkydeSYtLFQa6e-NeUsM/view?usp=drivesdk)
 
 
 <!--
